@@ -1,0 +1,7 @@
+public class TreasureChest
+{
+private ArrayList<Bag> myChest;
+public TreasureChest(Bag b1 Bag b2, Bag b3)
+{
+myChest = new ArrayList<>();
+}
